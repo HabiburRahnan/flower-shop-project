@@ -53,6 +53,9 @@
 .banner-photo{
      width: 310px;
     height: 428px; 
+    padding: 200px;
+    
+    
   
 
 }
@@ -60,6 +63,7 @@
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
     margin: 10px;
+    margin-left: 200px;
 }
 .banner-photo2{
     border-radius: 300px 300px 0px 0px;
@@ -78,8 +82,38 @@
     display: flex;
     justify-content:space-around;
     text-align: center;
-    font-weight: 700;
-    line-height: 35px;
+    color: #272727;
+    text-decoration-line: underline;
+    margin-left: 50px;
  
 
+}
+/* service related styles */
+.service-container{
+    color: rgba(39, 39, 39, 0.80);
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    padding: 50px;
+
+    
+
+}
+.icones{
+    width: 40px;
+   
+}
+
+
+.sing-up{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    margin: 100px;
+    padding: 100;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
 }
