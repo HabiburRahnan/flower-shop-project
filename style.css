@@ -118,21 +118,32 @@
 }
 
 
+
 .photo{
     padding: 10px;
 }
 
 .Get-The-Latest-Deals{
-    text-align: center;
+    /* text-align: center; */
     background-image: url("./Flower\ Asset/cover.png") ;
     background-position: center;
     background-repeat: no-repeat;
     background-size: auto;
     background-size: 1200px 500px;
-
+    margin-left: 100px;
+    width: 1200px;
+    height: 300px;
     
 
+    
 }
+.cover-div{
+    text-align: center;
+    justify-content: center;
+    padding-top: 80px;
+}
+
+
 .footer-section{
     text-align: center;
     margin-left: 100px;
