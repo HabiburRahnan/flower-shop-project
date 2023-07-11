@@ -1,0 +1,85 @@
+
+.banner{
+    padding: 30px 30px 0 150px  ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(229, 84, 115, 0.10);
+    ;
+}
+.banner-conten{
+    max-width: 500px;
+}
+.profile-pic{
+   width: 300px;
+}
+
+.banner-title{
+    color: #272727;
+    font-weight: 800;
+    font-family: Lato;
+        
+}
+.banner-description{
+    font-size: 18px;
+}
+.btn-primary{
+    color: #FFF;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+
+}
+.section-title{
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+}
+.section-description{
+    color: #757575;
+    text-align: center;
+    font-size: 18px;
+}
+.banner-photo-img{
+    width: 400px;
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.banner-photo{
+     width: 310px;
+    height: 428px; 
+  
+
+}
+.banner-photo1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    margin: 10px;
+}
+.banner-photo2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    margin: 10px;
+
+}
+.banner-photo3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    margin: 10px;
+
+
+}
+.pic-name{
+    display: flex;
+    justify-content:space-around;
+    text-align: center;
+    font-weight: 700;
+    line-height: 35px;
+ 
+
+}
