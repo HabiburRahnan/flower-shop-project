@@ -50,15 +50,6 @@
     justify-content: space-between;
     text-align: center;
 }
-.banner-photo{
-     width: 310px;
-    height: 428px; 
-    padding: 200px;
-    
-    
-  
-
-}
 .banner-photo1{
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
@@ -125,6 +116,12 @@
     margin-left: 200px;
    
 }
+
+
+.photo{
+    padding: 10px;
+}
+
 .Get-The-Latest-Deals{
     text-align: center;
     background-image: url("./Flower\ Asset/cover.png") ;
